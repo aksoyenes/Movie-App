@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieAAp</string>
+    <string name="search_title">Film Ara</string>
+    <string name="settings">Ayarlar</string>
+    <string name="dark_mode">Koyu Mod</string>
+    <string name="now_playing">Vizyondakiler</string>
+    <string name="popular">Popüler</string>
+    <string name="top_rated">En Yüksek Puanlılar</string>
+    <string name="upcoming">Yakında Gelecekler</string>
+    <string name="show_all">Tümünü Göster</string>
+    <string name="movies">Filmler</string>
+    <string name="home">Anasayfa</string>
+    <string name="search">Ara</string>
+    <string name="profile">Profil</string>
+    <string name="icon_desc_profile">Profil İkonu</string>
+    <string name="icon_desc_settings">Ayarlar İkonu</string>
+    <string name="icon_desc_home">Anasayfa İkonu</string>
+    <string name="icon_desc_search">Arama İkonu</string>
+    <string name="error_loading_movies">Filmler yüklenemedi.</string>
+    <string name="back">Geri</string>
+</resources>
